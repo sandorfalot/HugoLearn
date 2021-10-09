@@ -1,0 +1,4 @@
+baseURL = "http://crazy.catsandcode.net/"
+languageCode = "en-us"
+title = "Cats and Code"
+theme = "basic"
