@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Cats and Code</title>
+    <link>http://sandorfalot.github.io/projects/</link>
+    <description>Recent content in Projects on Cats and Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://sandorfalot.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>http://sandorfalot.github.io/projects/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sandorfalot.github.io/projects/blog/</guid>
+      <description>Coming Soon  Web dev book reviews HTML, CSS, JS and more tutorials A glance into my daily life Lots of Covid-19 dashboards  </description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://sandorfalot.github.io/projects/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sandorfalot.github.io/projects/portfolio/</guid>
+      <description>Sites I&amp;rsquo;ve Made  CoVIID-19 Visualization Go Away CoVID-19 (Ontario CoVID data) Weather Widget Weather Forcast (Forcats) PHP Scraper Loomknitting.org ReadALot.today suicidesucks.help  </description>
+    </item>
+    
+  </channel>
+</rss>
